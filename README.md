@@ -47,7 +47,7 @@ Netlytics> pip install ultralytics pandas numpy supervision opencv-python
 ## Output Videos
 Here is a screenshot from one of the output videos:
 
-![Screenshot](output_videos/screenshot.jpeg)
+![Screenshot](utils/screenshot.jpeg)
 
 ## Copyright
 © 2025 # Netlytics. All rights reserved.
