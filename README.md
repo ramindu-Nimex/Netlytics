@@ -50,4 +50,4 @@ Here is a screenshot from one of the output videos:
 ![Screenshot](utils/screenshot.jpeg)
 
 ## Copyright
-© 2025 # Netlytics. All rights reserved.
+© 2025 Netlytics. All rights reserved.
